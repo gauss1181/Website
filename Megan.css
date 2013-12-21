@@ -1,0 +1,42 @@
+header {
+
+	background-color:rgb(51,204,255);
+
+}
+
+#Banner {
+
+	background-color:#00FFFF;
+	color: blue;
+
+}
+
+body {
+
+	background-color:rgb(102,153,255);
+
+}
+
+h2 {
+
+	background-color:rgb(102,255,255);
+
+}
+
+div {
+
+	background-color:rgb(51, 204, 255);
+
+}
+
+img {
+
+	length: 50px;
+	
+}
+
+footer {
+
+	background-color:rgb(51,204,255);
+
+}
