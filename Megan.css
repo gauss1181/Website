@@ -1,6 +1,13 @@
 header {
 
-	background-color:rgb(51,204,255);
+	background-color:#00FFFF;
+
+}
+
+header:hover {
+
+	background-color:#00FFFF;
+	opacity: 0.5;
 
 }
 
@@ -11,21 +18,35 @@ header {
 
 }
 
-body {
-
-	background-color:rgb(102,153,255);
-
-}
-
 h2 {
 
 	background-color:rgb(102,255,255);
 
 }
 
+h2:hover {
+
+	background-color:rgb(102,255,255);
+	opacity:0.5;
+
+}
+
+body {
+
+	background-color:#CCFFFF;
+	
+}
+
 div {
 
-	background-color:rgb(51, 204, 255);
+	background-color:#00FFFF;
+
+}
+
+div:hover {
+
+	background-color:#00FFFF;
+	opacity:0.5;
 
 }
 
@@ -37,6 +58,13 @@ img {
 
 footer {
 
-	background-color:rgb(51,204,255);
+	background-color:#00FFFF;
+
+}
+
+footer:hover {
+
+	background-color:#00FFFF;
+	opacity:0.5;
 
 }
